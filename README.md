@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Andrea
 
-I'm a Software Developer from Italy 🇮🇹, working with `PHP` and `Laravel`, while deepening my expertise in `OpenStack` and `Kubernetes`. I'm an Open Source Enthusiast, passionate about transforming legacy codebases into modern, Cloud Native applications.
+I'm a Software Developer from Italy 🇮🇹, working with **PHP** and **Laravel**, while deepening my expertise in **OpenStack** and **Kubernetes**. I'm an Open Source Enthusiast, passionate about transforming legacy codebases into modern, Cloud Native applications.
 
 
 ## 🛠️ Knowledge & Skills
